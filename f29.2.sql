@@ -1,0 +1,1 @@
+delete from library where id=2;
